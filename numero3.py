@@ -1,0 +1,1 @@
+numero3 = int(input("Digite outro numero:"))
